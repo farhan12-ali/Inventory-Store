@@ -45,8 +45,8 @@ This application can be used by any small to mid-sized stores to easily maintain
         ```xml
           <properties>
           <comment>Credentials for the database.</comment>
-            <entry key="username">root</entry>
-            <entry key="password">root</entry>
+            <entry key="username">farhan</entry>
+            <entry key="password">12345</entry>
           </properties>
         ```
 6. Once these credentials match, the JAR file should execute without any issues provided that you have the minimum JRE.
